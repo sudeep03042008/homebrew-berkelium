@@ -1,6 +1,6 @@
 cask "berkelium" do
-  version "0.2.0"
-  sha256 "7633438da0e86d2ffc561edd9d53cb0078fe5b515aecb955eec5bc44eca4b6f8"
+  version "0.2.1"
+  sha256 "cc8b8bbfb3e98397ff49f7ea0d4ddcf85da715bce951083f806c706fa5dc7ae4"
 
   url "https://github.com/kmmohaimenulhaque-code/Berkelium-Neural-Rendering-Studio/releases/download/v#{version}/Berkelium-#{version}-mac-arm64.dmg"
   name "Berkelium"
